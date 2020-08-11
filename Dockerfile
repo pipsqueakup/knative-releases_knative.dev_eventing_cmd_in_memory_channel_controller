@@ -1,0 +1,2 @@
+from gcr.io/knative-releases/knative.dev/eventing/cmd/in_memory/channel_controller@sha256:5bae1865c588b21ce04562616ea12a8b6eef9a380db2ee87d217171c0143c4cc
+MAINTAINER alufer8dock
